@@ -50,7 +50,7 @@
 <h3>Интерфейс</h3>
 
 Форма конвертирования
-![](https://vk.com/bestofthebestournaments?z=photo-146195430_457239053%2Fwall-146195430_50)
+![](https://imgur.com/7Cw8ysD)
 
 
 Форма истории и поиска
