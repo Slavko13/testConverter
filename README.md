@@ -49,7 +49,7 @@
 
 <h3>Интерфейс</h3>
 
-<p><b>Форма конвертирования</b><p>
+<p><b>Форма конвертирования</b></p>
 
 ![Sreen1](https://user-images.githubusercontent.com/48677713/88924546-1a76ea80-d27c-11ea-9d2d-bc38efd08a52.png)
 
