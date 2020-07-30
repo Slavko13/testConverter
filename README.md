@@ -50,7 +50,9 @@
 <h3>Интерфейс</h3>
 
 Форма конвертирования
-![](https://imgur.com/7Cw8ysD)
+![Sreen1](https://user-images.githubusercontent.com/48677713/88924546-1a76ea80-d27c-11ea-9d2d-bc38efd08a52.png)
+
 
 
 Форма истории и поиска
+![screen2](https://user-images.githubusercontent.com/48677713/88924537-18ad2700-d27c-11ea-90f8-a2dc7e2ca5c6.png)
